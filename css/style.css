@@ -1,0 +1,81 @@
+body{
+    background-color: #E4F9F5;
+  margin: 0;
+  text-align: center;
+  font-family:'Merriweather',serif;
+
+
+}
+.shivraj{
+  background-size:contain;
+  width: 150px;
+  height: 150px;
+}
+hr {
+  border-style: dotted none none none;
+  background-color:white;
+  border-width:5px;
+  width:10%;
+
+}
+h1{
+   font-size: 5.625rem;
+  margin: 80px auto 0 auto;
+  font-family:'sacramento',cursive;
+}
+h2{
+font-family: 'montserrat',sans-serif;
+font-size: 2rem;
+
+}
+h3{
+
+  font-family: 'montserrat',sans-serif;
+}
+.top-container{
+  padding: 50px;
+  margin: 0 auto 0 auto;
+
+}
+
+.middel-container{
+
+  }
+
+
+.bottom-container{
+
+}
+.top-cloud{
+
+  position:absolute;
+  margin: 70px auto 0 auto;
+  right: 300px;
+}
+.bottom-cloud{
+  position: absolute;
+  left:150px;
+}
+.mountain{
+  margin: auto 0 50px 0;
+}
+.Email{
+background-size:contain;
+width: 40px;
+height: 20px;
+
+}
+.phone{
+  background-size:contain;
+  width: 40px;
+  height: 20px;
+
+}
+.computer{
+  background-size:contain;
+  width:50px;
+  height: 50px;
+
+
+
+}
